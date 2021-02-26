@@ -1,4 +1,4 @@
 sectors			- data gathered from https://www.goodschools.com.au/
 naplan_hs_2019		- data gathered from https://www.goodschools.com.au/
-doe_2020 		- based from the Department Of Education csv file "SchoolsListExcel0880"
+doe_2020 		- based from the Department Of Education csv file "SchoolsListExcel0880". data gathered from http://det.wa.edu.au/schoolinformation/detcms/navigation/school-lists/
 icsea_additional	- additional icsea score from https://bettereducation.com.au/
