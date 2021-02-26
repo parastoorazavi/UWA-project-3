@@ -3,7 +3,7 @@
  <img width=700px height=500px src="images/logo.PNG" alt="Project logo"></a>
 </p>
 
-<h3 align="center">WA High School rankings</h3>
+<h3 align="center">WA High School analysis</h3>
 
 <div align="center">
 
@@ -11,7 +11,7 @@
 
 ---
 
-<p align="center">  An analysis of Western Australia's High Schools rankings
+<p align="center">  An analysis of Western Australia's High School rankings
     <br> 
 </p>
 
